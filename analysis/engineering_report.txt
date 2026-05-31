@@ -1,0 +1,27 @@
+
+==================================================
+ MICROGRID ENGINEERING & FINANCIAL REPORT
+==================================================
+
+--------------------------------------------------
+ 1. TECHNICAL RELIABILITY (LPSP)
+--------------------------------------------------
+Total Annual Load Demand : 104581.95 kWh/year
+Total Unmet Load (Outage): 19812.54 kWh/year
+LPSP (Outage Probability): 18.9445 %
+Status                   : POOR (System sizing is too small!)
+
+--------------------------------------------------
+ 2. FINANCIAL FEASIBILITY (LCOE)
+--------------------------------------------------
+Initial Investment (CAPEX) : $ 20500.00
+Total Lifecycle Cost (NPV) : $ 30995.54
+LCOE (Cost per kWh)        : $ 0.2068 / kWh
+Investment Verdict         : EXPENSIVE (Needs optimization or grants)
+
+--------------------------------------------------
+ 3. SYSTEM EFFICIENCY
+--------------------------------------------------
+Total Wasted Energy (Dump) : 101151.00 kWh/year
+Wasted Energy Ratio        : 636.77 %
+--------------------------------------------------

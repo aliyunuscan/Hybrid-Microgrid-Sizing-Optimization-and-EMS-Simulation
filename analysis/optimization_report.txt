@@ -1,0 +1,10 @@
+
+==================================================
+ OPTIMIZATION COMPLETE: REAL-WORLD GOLDEN RATIO
+==================================================
+
+Optimal Solar Panel Area       : 75 m2
+Optimal Battery Capacity       : 40 kWh
+Resulting LPSP (Outage)        : 0.64 %
+--------------------------------------------------
+Minimum Initial Invest (CAPEX) : $ 30250
