@@ -15,13 +15,14 @@ The project features a hybrid architecture combining the strengths of two differ
 ## 📊 Mathematical Infrastructure and Modeling
 
 ### 1. Power Generation Models
+
 * **Solar Power Output (kW):**
-  $$P_{pv} = \frac{A \cdot \eta \cdot G}{1000}$$
-  *(A: Panel Area [m²], $\eta$: Panel Efficiency [20%], G: Solar Radiation [W/m²])*
+  `P_pv = (A · η · G) / 1000`
+  *(A: Panel Area [m²], η: Panel Efficiency [20%], G: Solar Radiation [W/m²])*
 
 * **Wind Power Output (kW):**
-  $$P_{wind} = \frac{0.5 \cdot \rho \cdot A_{swept} \cdot C_p \cdot v^3}{1000}$$
-  *($\rho$: Air Density [1.225 kg/m³], $A_{swept}$: Swept Area [20 m²], $C_p$: Power Coefficient [0.35], v: Wind Speed [m/s])*
+  `P_wind = (0.5 · ρ · A_swept · C_p · v³) / 1000`
+  *(ρ: Air Density [1.225 kg/m³], A_swept: Swept Area [20 m²], C_p: Power Coefficient [0.35], v: Wind Speed [m/s])*
 
 ### 2. Reliability Metric (LPSP)
 The electrical reliability of the system is measured by the Loss of Power Supply Probability (LPSP):
