@@ -18,10 +18,12 @@ The project features a hybrid architecture combining the strengths of two differ
 
 * **Solar Power Output (kW):**
   `P_pv = (A · η · G) / 1000`
+  
   *(A: Panel Area [m²], η: Panel Efficiency [20%], G: Solar Radiation [W/m²])*
 
 * **Wind Power Output (kW):**
   `P_wind = (0.5 · ρ · A_swept · C_p · v³) / 1000`
+  
   *(ρ: Air Density [1.225 kg/m³], A_swept: Swept Area [20 m²], C_p: Power Coefficient [0.35], v: Wind Speed [m/s])*
 
 ### 2. Reliability Metric (LPSP)
