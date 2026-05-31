@@ -92,7 +92,3 @@ octave microgrid_optimizer.m
 ## 📄 License
 
 This project is an engineering study developed for educational and research purposes.
-
-```
-
-```
